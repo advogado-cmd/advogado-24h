@@ -9,7 +9,7 @@ export function Authority() {
             <div className="order-2 md:order-1">
               <div className="relative w-full aspect-[3/4] rounded-2xl overflow-hidden border-4 border-[#ccab76] shadow-2xl">
                 <Image
-                  src="/images/carlosface-20-282-29.jpeg"
+                  src="/images/mesaboa.png"
                   alt="Dr. Carlos Fernando Lopes de Oliveira"
                   fill
                   className="object-cover"
